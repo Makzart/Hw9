@@ -4,11 +4,11 @@
     background-color: white;
 }
 
-.wrapper{
+.container__wrapper{
     font-size: 0;
 }
 
-.text{
+.container__text{
     width: 25%;
     display: inline-block;
     font-size: 16px;
