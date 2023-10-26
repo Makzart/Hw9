@@ -1,0 +1,20 @@
+.container {
+    max-width: 1200px;
+    margin: 10px 25%;
+    background-color: white;
+}
+
+.wrapper{
+    font-size: 0;
+}
+
+.text{
+    width: 25%;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+}
+
+.content-block{
+    background-color: lightgray;
+}
